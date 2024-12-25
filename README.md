@@ -51,7 +51,7 @@ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/blog-api.git
+git clone https://github.com/mavulag/blog-api.git
 cd blog-api
 
 
@@ -62,11 +62,12 @@ npm install
 
 3. Start the server:
 
-node index.js
+npm run dev
 
 For automatic server restarts on file changes, you can use nodemon:
 
 npm install -g nodemon
+
 npm run dev
 
 
